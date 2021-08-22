@@ -1,0 +1,2 @@
+# lams_operation_manual
+实验室预算及资产系统操作手册
